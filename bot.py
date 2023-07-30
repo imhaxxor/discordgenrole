@@ -107,4 +107,4 @@ loop = asyncio.get_event_loop()
 loop.create_task(check_expired_keys())
 
 # Replace "YOUR_BOT_TOKEN" with your actual bot token
-bot.run("MTAzMjY0NDEwNzQwMDY1MDc2NA.GJXlh0.zQJii-McDwoCZk5HUw9hOVnsErxu8qVspbjPS0")
+bot.run("YOUR_BOT_TOKEN")
